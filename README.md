@@ -1,6 +1,4 @@
 ### Interconnected Realities: Exploring the Dynamics of Development, Environment, and Pollution
-
-#### Data Visualization Project Report
 **Theme:** Environment
 
 **Motivation:**
